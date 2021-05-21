@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+
+  p {
+    font-size: 10px;
+    font-family: var(--fontPT);
+    text-transform: uppercase;
+    writing-mode: vertical-lr;
+  }
+}
+
+.big_margin {
+  margin-bottom: 100px;
+}
